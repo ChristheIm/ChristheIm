@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&text=Hi!%20This%20is%20Kyungchan's%20GitHub%20🚀&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250">
+  <a href="https://www.linkedin.com/in/kyungchan-im/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&text=Hi!%20This%20is%20Kyungchan's%20GitHub%20🚀&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250">
+  </a>
 </p>
 
 Hello! 👋 I'm Kyungchan aka Chris, Undergraduate Student at Grand Canyon University majoring in Computer Science with an Emphasis on Big Data Analytics. 
