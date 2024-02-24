@@ -14,10 +14,10 @@ organizations by leveraging these technologies to solve complex problems.
 ---
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChristheIm&theme=tokyonight" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChristheIm&card_width=200&theme=tokyonight" />
   </a>
   <a href="https://github.com/ChristheIm?tab=repositories">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristheIm&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristheIm&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
   </a>
 </p>
 
