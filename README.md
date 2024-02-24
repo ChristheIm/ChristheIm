@@ -15,7 +15,7 @@ organizations by leveraging these technologies to solve complex problems.
 
 ---
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="#">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChristheIm&card_width=200&theme=tokyonight" />
   </a>
   <a href="https://github.com/ChristheIm?tab=repositories">
